@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavp7744&show_icons=true&locale=en" alt="vaibhavp7744" /></p>
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavp7744)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.vercel.app?user=vaibhavp7744&theme=dark)](https://git.io/streak-stats)
